@@ -1,6 +1,6 @@
-# Carola Adrados Herrero 18001
-# Juan Berenguer Triana 19036
-# Sergio Gómez Montes 18150
+# Carola Adrados Herrero
+# Juan Berenguer Triana
+# Sergio Gómez Montes
 
 # Autor: Sergio Gómez
 
